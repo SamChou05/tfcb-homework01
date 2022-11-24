@@ -1,0 +1,49 @@
+Date collected	Species	Sex	Weight	Plot																												
+1/8/1978	DM	F	37g	4																												
+1/8/1978	DM	M		4																												
+1/8/1978	DM	F	48g	4																												
+1/8/1978	DO	M	52g	4																												
+1/8/1978	OL	M	35g	4																												
+7/16/2013	DM	F		2																												
+7/16/2013	DM	M	33g	7																												
+7/16/2013	DM	M		3																												
+7/16/2013	DM	M		1																												
+7/18/2013	DM	M	40g	3																												
+7/18/2013	DM	M	48g	7																												
+7/18/2013	DM	F	29g	4																												
+7/18/2013	DM	F	37g	6																												
+8/19/2013	DO	F	52g	8																												
+10/17/2013	DO	F	33g	3																												
+10/17/2013	DO	F	50g	3																												
+11/12/2013	DS	F	117g	9																												
+11/13/2013	DS	F	126g	11																												
+11/13/2013	DS	M	132g (scale not calibrated)	17																												
+11/13/2013	DS	F	113g (scale not calibrated)	14																												
+11/13/2013	DS	F	122g	11																												
+11/13/2013	DS	F	107g	4																												
+11/13/2013	DS	F	115g	4																												
+12/10/2013	DO	F	40g	9																												
+12/10/2013	DO	M	45g	1																												
+12/11/2013	DO	F	41g	8																												
+1/8/2014	NA			2																												
+1/8/2014	DM	M	44g	2																												
+1/8/2014	PF	F	7g	2																												
+1/8/2014	DM	M	45g	2																												
+1/8/2014	OT			2																												
+1/8/2014	DS	M	157g (scale not calibrated)	2																												
+1/8/2014	OX			2																												
+1/9/2014	DM	M	40g	1																												
+1/9/2014	DM	F	36g	1																												
+2/18/2014	NA	M	218g (scale not calibrated)	2																												
+2/18/2014	PF	F	7g	2																												
+2/18/2014	DM	M	52g	2																												
+3/13/2014	DM	F	51g	1																												
+3/13/2014	DM	F	44g	1																												
+3/13/2014	DS	F	146g	1																												
+3/11/2015	PF	M	8	3																												
+4/8/2015	NA	F		3																												
+5/6/2015				3																												
+5/18/2015	NA	F	182	3																												
+6/9/2015	OT	F	29	3																												
+7/8/2015	NA	F	115	3																												
+7/8/2015	NA	M	190	3																												
